@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCleanPage", "BlazorCleanPage.csproj", "{038666F7-CE0B-45F7-BC26-67546EADB635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038666F7-CE0B-45F7-BC26-67546EADB635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038666F7-CE0B-45F7-BC26-67546EADB635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038666F7-CE0B-45F7-BC26-67546EADB635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038666F7-CE0B-45F7-BC26-67546EADB635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F55548B-D3D9-4266-9672-FA4FCFE92D58}
+	EndGlobalSection
+EndGlobal
